@@ -1,0 +1,31 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Digite uma Palavra: ");
+		Scanner e1 = new Scanner(System.in);
+		
+	    String palavra = e1.nextLine();
+	    
+	    int cont = 5;
+	    
+	    
+	    
+	    while (cont>0) {
+	    
+	         System.out.println(palavra);
+	         cont --;
+	    
+
+	        
+	        
+	        
+	        
+	   
+	   
+	        
+}
+
+	}
+
+    	}
