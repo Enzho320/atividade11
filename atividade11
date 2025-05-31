@@ -8,7 +8,7 @@ public class Main
 	    String palavra = e1.nextLine();
 	    
 	    int cont = 5;
-	    
+	    						LEMBRE DE DESLOGAR O GITHUB NO PC DA USP
 	    
 	    
 	    while (cont>0) {
